@@ -1,6 +1,6 @@
 # **The Odin Project - Ruby Programming**
 
-### **Project: Bubble Sort**
+### **Project: [Bubble Sort](bubble_sort.rb)**
 
 ### **Introduction:**
 
